@@ -6,7 +6,9 @@ Scroll down in the list so you have 100+ people that you can select to invite.
 
 Press Command Option J (or go to View-> Developer -> Javascrip Console in Google Chrome) 
 
-Copy Paste This script in the consule
+Copy Paste This script in the console > CODE
+
+
 
 const elements = Array.from(document.querySelectorAll(".artdeco-list.artdeco-typeahead__result.pv2.invitee-picker-connections-result-item--can-invite.ph5.relative.invitee-picker__result-item")).slice(0, 100);
 
@@ -15,11 +17,16 @@ elements.forEach(element => {
 });
 
 
+
+
 Press enter and it will select 100 people.
 
 You do need click invite yourself, repeat until you have invited everybody.
 
 In the future, I will add a loop that it goes through your entire list.  
+
+BTW, The limit is capped 100 because between 100-130 LinkedIn itself crashes. 
+
 
 
 
