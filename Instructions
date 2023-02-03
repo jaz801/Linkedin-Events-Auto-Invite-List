@@ -1,11 +1,12 @@
 This is for Linkedin Live Events.
 
-Go to events page go to invite connections
-Scroll down in the list so you have 100+ people that you could select.
+Go to events page go to share -> invite connections
 
-Command Option J (our go to View-> Developer -> Javascrip Console in Chrome) 
+Scroll down in the list so you have 100+ people that you can select to invite.
 
-Copy Paste This script
+Press Command Option J (or go to View-> Developer -> Javascrip Console in Google Chrome) 
+
+Copy Paste This script in the consule
 
 const elements = Array.from(document.querySelectorAll(".artdeco-list.artdeco-typeahead__result.pv2.invitee-picker-connections-result-item--can-invite.ph5.relative.invitee-picker__result-item")).slice(0, 100);
 
@@ -14,7 +15,11 @@ elements.forEach(element => {
 });
 
 
-You do need click invite yourself, will update this soon as well.
+Press enter and it will select 100 people.
+
+You do need click invite yourself, repeat until you have invited everybody.
+
+In the future, I will add a loop that it goes through your entire list.  
 
 
 
