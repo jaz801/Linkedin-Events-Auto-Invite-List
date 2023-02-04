@@ -18,8 +18,7 @@ elements.forEach(element => {
 
 
 
-
-Press enter and it will select 100 people.
+Linkedin has put in the algo a block to invite 100 at once, play around with the amount by changing the numbers in the splice function. 
 
 You do need click invite yourself, repeat until you have invited everybody.
 
