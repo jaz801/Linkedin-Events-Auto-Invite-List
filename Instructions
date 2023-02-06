@@ -19,16 +19,11 @@ elements.forEach(element => {
 
 Press enter, it will put 99 connection in the invite list, if you scrolled down far enough, close the console. Hit the invite button.
 
-Some growth hacker put my code in his Linkedin API, which is not available if you don't work ar Voyager.
-
-So play around with the amount by changing the numbers in the splice function, 99 works at the moment 100 not.  
-
-You do need click invite yourself, repeat until you have invited everybody.
-
-In the future, I will add a loop that it goes through your entire list.  
 
 BTW, The limit is capped 100 because between 100-130 LinkedIn itself crashes. 
 
+
+P.S if you are the growth hacker working at Voyager, who put my code in your Linkedin API, I don't appreciate that.
 
 
 
