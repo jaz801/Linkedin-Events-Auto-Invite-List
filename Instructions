@@ -10,7 +10,7 @@ Copy Paste This script in the console > CODE
 
 
 
-const elements = Array.from(document.querySelectorAll(".artdeco-list.artdeco-typeahead__result.pv2.invitee-picker-connections-result-item--can-invite.ph5.relative.invitee-picker__result-item")).slice(0, 100);
+const elements = Array.from(document.querySelectorAll(".artdeco-list.artdeco-typeahead__result.pv2.invitee-picker-connections-result-item--can-invite.ph5.relative.invitee-picker__result-item")).slice(0, 99);
 
 elements.forEach(element => {
   element.click();
@@ -18,7 +18,9 @@ elements.forEach(element => {
 
 
 
-Linkedin has put in the algo a block to invite 100 at once, play around with the amount by changing the numbers in the splice function. 
+Some growth hacker put my code in his Linkedin API, which is not available if you don't work ar Voyager.
+
+So play around with the amount by changing the numbers in the splice function. 
 
 You do need click invite yourself, repeat until you have invited everybody.
 
