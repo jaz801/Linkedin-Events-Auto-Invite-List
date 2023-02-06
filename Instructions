@@ -17,6 +17,7 @@ elements.forEach(element => {
 });
 
 
+Press enter, it will put 99 connection in the invite list, if you scrolled down far enough, close the console. Hit the invite button.
 
 Some growth hacker put my code in his Linkedin API, which is not available if you don't work ar Voyager.
 
