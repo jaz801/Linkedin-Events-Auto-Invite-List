@@ -20,7 +20,7 @@ elements.forEach(element => {
 
 Some growth hacker put my code in his Linkedin API, which is not available if you don't work ar Voyager.
 
-So play around with the amount by changing the numbers in the splice function. 
+So play around with the amount by changing the numbers in the splice function, 99 works at the moment 100 not.  
 
 You do need click invite yourself, repeat until you have invited everybody.
 
