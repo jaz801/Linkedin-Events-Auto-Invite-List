@@ -1,4 +1,7 @@
-LinkedIn has Patched it away-> IT DOESN"T WORK
+After you Invite everyone, remove 2-3 people, so voyager (linekdIn internal API caller doesn't you are using an automation script. 
+
+Don't go overboard. 
+
 
 
 This is for Linkedin Live Events. 
@@ -22,5 +25,5 @@ elements.forEach(element => {
 
 Press enter, it will put 99 connection in the invite list, if you scrolled down far enough, close the console. Hit the invite button.
 
-Not Working At The Moment Due to this API using the script  -> https://github.com/tomquirk/linkedin-api
+
 
