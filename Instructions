@@ -26,7 +26,10 @@ for (let i = 0; i < 99 && i < elements.length; i++) {
 
 
 
-Press enter, it will put 99 connection in the invite list, if you scrolled down far enough, close the console. Hit the invite button.
+Press enter, it will put 99 connection in the invite list, if you scrolled down far enough, invite between 90-99 people, remove an add some people, to not be caught by the API of LinkedIn
+
+Hit the invite button.
+
 
 
 
